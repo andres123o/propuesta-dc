@@ -15,7 +15,7 @@ const WINDOW =
 const OFFSET = "mt-[5.6rem] md:mt-[11.2rem]";
 
 /*
-  Como la sección de trabajo de Contra: "Nuestros métodos" fijo en la línea del centro y,
+  "Nuestros métodos" queda fijo en la línea del centro y,
   a su lado, los nombres y la información de cada solución suben juntos con el scroll.
   La fila alineada queda encendida; cambia el video de fondo.
 */
